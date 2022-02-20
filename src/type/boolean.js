@@ -10,7 +10,7 @@
   *
   * @see {@link * https://javascript.info/types#boolean-logical-type}
   */
- 'use strict';
+'use strict';
 
 // Literals
 let nameFieldChecked = true; // yes, name field is checked

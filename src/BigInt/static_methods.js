@@ -10,8 +10,7 @@
   *
   * @see {@link * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt}
   */
-
-"use strict";
+'use strict';
 
 //Static Methods
 console.log("\n-----Static Methods----- \n");

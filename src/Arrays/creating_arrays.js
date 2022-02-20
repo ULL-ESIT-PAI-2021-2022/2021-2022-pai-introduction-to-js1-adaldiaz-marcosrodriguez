@@ -10,8 +10,7 @@
   *
   * @see {@link * }
   */
-
-"use strict"
+'use strict';
 
 let array = ["a", "b", "c", "d", "e"];
 console.log("---- Methods for creating small arrays derived from other variables or objects ----");

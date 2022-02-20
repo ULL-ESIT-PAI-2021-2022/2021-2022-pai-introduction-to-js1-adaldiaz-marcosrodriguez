@@ -10,8 +10,7 @@
   *
   * @see {@link * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number}
   */
-
-"use strict";
+'use strict';
 
 // Porperties
 console.log("\n-----Properties----- \n");

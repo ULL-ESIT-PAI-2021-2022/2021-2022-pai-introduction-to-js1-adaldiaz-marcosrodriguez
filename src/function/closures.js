@@ -10,6 +10,7 @@
   * 
   * @see {@link * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence}
   */
+ 'use strict';
 
 // Closure: Closure incr()
 const incr = (function () {

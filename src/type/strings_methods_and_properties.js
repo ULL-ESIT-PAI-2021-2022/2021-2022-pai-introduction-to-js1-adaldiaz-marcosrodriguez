@@ -10,7 +10,7 @@
   *
   * @see {@link * https://javascript.info/types#string}
   */
- 'use strict';
+'use strict';
 
 
 // Length

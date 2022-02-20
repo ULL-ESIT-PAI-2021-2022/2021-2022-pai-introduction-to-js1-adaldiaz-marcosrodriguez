@@ -9,8 +9,7 @@
   * desc @desc Different ways to iterate an object
   *
   */
-
-"use strict";
+'use strict';
 
 const cat = {
   name: "Gara",
