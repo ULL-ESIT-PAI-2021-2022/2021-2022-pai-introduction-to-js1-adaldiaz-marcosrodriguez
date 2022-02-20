@@ -10,7 +10,7 @@
   *
   * @see {@link * https://cybmeta.com/var-let-y-const-en-javascript}
   */
- 'use strict';
+'use strict';
 
 let i = 1;
 function example1() {

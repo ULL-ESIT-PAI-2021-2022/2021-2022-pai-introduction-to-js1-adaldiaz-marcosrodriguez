@@ -10,7 +10,7 @@
   * functionA = new Function("return 'Hello';")
   * @see {@link * https://lenguajejs.com/javascript/fundamentos/funciones/}
   */
- 'use strict';
+'use strict';
 
 const greet = function () {
     return "Hello";

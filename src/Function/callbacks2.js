@@ -10,6 +10,7 @@
   * 
   * @see {@link * https://lenguajejs.com/javascript/fundamentos/funciones/}
   */
+ 'use strict';
 
 // fB = function B (callback)
 const fB = function () {

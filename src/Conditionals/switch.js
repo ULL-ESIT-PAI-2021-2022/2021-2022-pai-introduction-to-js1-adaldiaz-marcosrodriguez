@@ -10,6 +10,7 @@
   *
   * @see {@link * https://javascript.info/switch}
   */
+'use strict';
 
 switch(parseInt((Math.random() * 100) % 4)) {
     case 0:
