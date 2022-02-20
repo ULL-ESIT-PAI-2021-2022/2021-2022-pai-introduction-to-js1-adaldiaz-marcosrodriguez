@@ -1,0 +1,33 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "hello_world": "node src/hello-world.js",
+    "number_properties": "node src/Number/properties.js",
+    "number_static_methods": "node src/Number/static_methods.js",
+    "number_instance_methods": "node src/Number/instance_methods.js",
+    "bigint": "node src/BigInt/static_methods.js",
+    "basic_loops": "node src/Loops/basic_loops.js",
+    "array_loops": "node src/Loops/array_loops.js",
+    "object_loops": "node src/Loops/object_loops.js",
+    "array_add": "node src/Arrays/add_and_delete.js",
+    "array_modification": "node src/Arrays/array_modification.js",
+    "creating_array": "node src/Arrays/creating_arrays.js",
+    "array_search": "node src/Arrays/search_and_check.js",
+    "array_sorting": "node src/Arrays/sorting_of_items.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosrv-ULL/PRESENTACION_PAI_INTRODUCCION_JS.git"
+  },
+  "keywords": [],
+  "author": "Adal Díaz Fariña, Marcos Rodríguez Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosrv-ULL/PRESENTACION_PAI_INTRODUCCION_JS/issues"
+  },
+  "homepage": "https://github.com/marcosrv-ULL/PRESENTACION_PAI_INTRODUCCION_JS#readme"
+}
