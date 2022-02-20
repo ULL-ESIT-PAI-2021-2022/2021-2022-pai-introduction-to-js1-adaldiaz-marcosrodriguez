@@ -10,23 +10,23 @@
   * 
   * @see {@link * https://lenguajejs.com/javascript/fundamentos/funciones/}
   */
- 'use strict';
+'use strict';
 
 // fB = function B (callback)
 const fB = function () {
-    console.log('function B executed.');
-  };
+  console.log('function B executed.');
+};
   
-  // fError = function Error (callback)
-  const fError = function () {
-    console.error('Error');
-  };
+// fError = function Error (callback)
+const fError = function () {
+  console.error('Error');
+};
   
-  // fA = function A
-  const fA = function (callback, callbackError) {
-    const n = Math.floor(Math.random() * 5);
-    if (n > 2) callback();
-    else callbackError();
-  };
-  
-  fA(fB, fError);
+// fA = function A
+const fA = function (callback, callbackError) {
+  const n = Math.floor(Math.random() * 5);
+  if (n > 2) callback();
+  else callbackError();
+};
+
+fA(fB, fError);
