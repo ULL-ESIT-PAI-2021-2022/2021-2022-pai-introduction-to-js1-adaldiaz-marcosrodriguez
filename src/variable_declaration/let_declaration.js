@@ -12,7 +12,7 @@
   */
  'use strict';
 
-let i = 0;
+let i = 1;
 function example1() {
     let j = 2;
     if(true) {
