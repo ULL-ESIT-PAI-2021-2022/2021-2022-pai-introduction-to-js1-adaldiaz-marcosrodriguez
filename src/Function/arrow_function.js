@@ -16,7 +16,7 @@ const func1 = () => {
     return 'arrow Function or \'fat arrow\' function.';
 };
 
-console.log(func());
+console.log(func1());
 
 // simplified
 const func2 = () => 'arrow function'; // 0 parameter: arrow function
