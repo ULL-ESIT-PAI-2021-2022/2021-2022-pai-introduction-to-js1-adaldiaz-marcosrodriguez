@@ -5,8 +5,8 @@
   * Programming of Interactive Applications
   *
   * @author Adal Díaz Fariña, Marcos Rodríguez Vegas 
-  * @since 17.feb.2022
-  * desc @desc Examples of adding and deleting items in an array
+  * @since 20.feb.2022
+  * desc @desc Hello world example
   *
   * @see {@link * https://javascript.info/structure}
   */

@@ -10,7 +10,8 @@ In this directory you should leave all the source code you have developed for yo
 |   Number  | Numeric value (integers, decimals, etc...) |
 |   String  |  Text value (strings, characters, etc...)  |
 |  Boolean  |    Boolean value (True or false values)    |
-|    Date   |                 Date values                |
+|   Symbol  |        Unique and immutable values         |
+|   Null    |           Null or empty value              |
 | Undefined |  Undefined values (Uninitialized variable) |
 |  Function |   Function (Function saved in a variable)  |
 |   Object  |       Object (More complex structure)      |
