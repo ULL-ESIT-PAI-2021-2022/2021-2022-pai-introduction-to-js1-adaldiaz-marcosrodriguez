@@ -17,7 +17,9 @@
     "array_modification": "node src/Arrays/array_modification.js",
     "creating_array": "node src/Arrays/creating_arrays.js",
     "array_search": "node src/Arrays/search_and_check.js",
-    "array_sorting": "node src/Arrays/sorting_of_items.js"
+    "array_sorting": "node src/Arrays/sorting_of_items.js",
+    "objects": "node src/Objects/basic_object.js",
+    "math_object": "node src/Objects/math_methods.js"
   },
   "repository": {
     "type": "git",

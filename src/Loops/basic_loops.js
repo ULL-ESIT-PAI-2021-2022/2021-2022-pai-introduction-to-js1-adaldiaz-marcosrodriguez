@@ -10,7 +10,7 @@
   *
   */
 
-"use strict";
+'use strict';
 
 let iterator = 0;
 // While loop
@@ -26,7 +26,7 @@ iterator = 0;
 do {
   console.log(`Value of iterator = ${iterator}`);
   iterator++;
-} while(iterator < 5);
+} while(iterator < 5)
 
 // for loop
 console.log("\nfor");
