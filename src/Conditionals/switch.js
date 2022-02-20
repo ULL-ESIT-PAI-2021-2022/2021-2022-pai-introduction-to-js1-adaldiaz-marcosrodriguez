@@ -14,15 +14,15 @@
 
 switch(parseInt((Math.random() * 100) % 4)) {
     case 0:
-        console.log("The random number is multiple of 4");
+        console.log('The random number is multiple of 4');
         break;
     case 1:
-        console.log("The reminder is 1");
+        console.log('The reminder is 1');
         break;
     case 2:
-        console.log("The reminder is 2");
+        console.log('The reminder is 2');
         break;
     case 3:
-        console.log("The reminder is 3");
+        console.log('The reminder is 3');
         break;
 }

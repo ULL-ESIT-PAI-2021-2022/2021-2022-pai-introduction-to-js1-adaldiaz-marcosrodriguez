@@ -12,7 +12,7 @@
   */
 'use strict';
 
-const str = "3.2";
+const str = '3.2';
 const num = 1;
 let result;
 

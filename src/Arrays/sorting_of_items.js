@@ -8,11 +8,11 @@
   * @since 17.feb.2022
   * desc @desc Methods to sort the arrays
   *
-  * @see {@link * }
+  * @see {@link * https://lenguajejs.com/javascript/fundamentos/arrays/}
   */
 'use strict';
 
-const array = ["Alberto", "Ana", "Mauricio", "Bernardo", "Zoe"];
+const array = ['Alberto', 'Ana', 'Mauricio', 'Bernardo', 'Zoe'];
 const array_num = [1, 6, 4, 3, 7, 8];
 
 // Reverse method. Modify the original array

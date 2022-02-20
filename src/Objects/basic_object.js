@@ -8,16 +8,17 @@
   * @since 17.feb.2022
   * desc @desc How to access and add properties to an object
   *
+  * @see {@link * https://lenguajejs.com/javascript/fundamentos/objetos-basicos/}
   */
 
-'use strict'
+'use strict';
 
 const cat = {
-  name: "Gara",
+  name: 'Gara',
   age: 4,
-  color: "black and white",
-  sex: "female"
-}
+  color: 'black and white',
+  sex: 'female'
+};
 
 // Accessing the properties of an object
 console.log('----Accessing the properties of an object----');

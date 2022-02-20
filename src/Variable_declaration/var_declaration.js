@@ -12,23 +12,23 @@
   */
 'use strict';
 
-var i = "global";
+var i = 'global';
 function example1() {
-    i = "local";
+    i = 'local';
     console.log(i); // Local
 }
 example1(); 
 console.log(i); // Local
 
-var i = "global";
+var i = 'global';
 function example2() {
-    var i = "local"; 
+    var i = 'local'; 
     console.log(i); // Local
 }
 example2();
 console.log(i); // global
 
 function example3() {
-    var i = "local";
+    var i = 'local';
 }
 console.log(i); // Global

@@ -17,8 +17,8 @@ let howitwork2 = (!true) ? true: false; // false
 
 // Example
 
-let howItWorkWithFunction = (true) ? functionA(): functionB(); // Function A
-let howItWorkWithFunction = (!true) ? functionA(): functionB(); // Function B
+let howItWorkWithFunction1 = (true) ? functionA(): functionB(); // Function A
+let howItWorkWithFunction2 = (!true) ? functionA(): functionB(); // Function B
 
 function functionA() {
     return "function A";

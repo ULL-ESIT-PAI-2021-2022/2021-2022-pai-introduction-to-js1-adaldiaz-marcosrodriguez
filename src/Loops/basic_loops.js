@@ -8,34 +8,35 @@
   * @since 17.feb.2022
   * desc @desc Basic loops found in other programming languages
   *
+  * @see {@link * https://docs.google.com/presentation/d/16ME3WoTVGqJABWA8HmMHO9ufI5WojOpje1_m0UlXSDc/edit#slide=id.g85b6ddada1_0_53} 
   */
 'use strict';
 
 let iterator = 0;
 // While loop
-console.log("while");
+console.log('while');
 while (iterator < 5) {
   console.log(`Value of iterator = ${iterator}`);
   iterator++;
 }
 
 // do..while
-console.log("\ndo..while")
+console.log('\ndo..while');
 iterator = 0;
 do {
   console.log(`Value of iterator = ${iterator}`);
   iterator++;
-} while(iterator < 5)
+} while(iterator < 5);
 
 // for loop
-console.log("\nfor");
+console.log('\nfor');
 for (let i = 0; i < 5; i++) {
   console.log(`Value of i = ${i}`);
 }
 
 // Multiple increase
-console.log("\nfor multiple increase");
+console.log('\nfor multiple increase');
 for (let i = 0, j = 5; i < 5; i++, j--) {
-  console.log("Valor de i y j: ", i, j);
+  console.log('Valor de i y j: ', i, j);
 }
 

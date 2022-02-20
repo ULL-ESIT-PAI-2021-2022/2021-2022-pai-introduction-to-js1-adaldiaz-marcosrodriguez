@@ -14,7 +14,7 @@
 
 // fB = function B
 const fB = function () {
-    console.log("function B execute.");
+    console.log('function B execute.');
 };
   
 // fA = function A

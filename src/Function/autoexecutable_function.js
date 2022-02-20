@@ -14,18 +14,18 @@
 
 // Function autoexecutable 
 (function () {
-    console.log("hello!!");
+    console.log('hello!!');
 })();
 
 // Function autoexecutable with parameters
 (function (name) {
     console.log(`hello, ${name}!`);
-})("Joan");
+})('Joan');
 
 
 const f = (function (name) {
     console.log(`hello, ${name}!`);
-})("Joan");
+})('Joan');
   
 f; // 'hello, Joan`
 console.log(typeof f); // 'string'

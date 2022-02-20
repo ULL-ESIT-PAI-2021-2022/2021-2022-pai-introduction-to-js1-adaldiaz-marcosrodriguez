@@ -15,16 +15,16 @@
 import {notANumber, biggestNumber, minSafeInteger} from './properties.js';
 
 // Static Methods
-console.log("\n-----Static Methods----- \n");
-console.log("(isNaN) Is not a number?");
-if (Number.isNaN(notANumber)) console.log("This Number is NaN");
-console.log("(isFinite) Is a finite number?");
-if (Number.isFinite(biggestNumber)) console.log("This Number is finite");
-console.log("(isInteger) Is a integer number?");
-if (Number.isInteger(minSafeInteger)) console.log("This Number is integer");
-console.log("")
+console.log('\n-----Static Methods----- \n');
+console.log('(isNaN) Is not a number?');
+if (Number.isNaN(notANumber)) console.log('This Number is NaN');
+console.log('(isFinite) Is a finite number?');
+if (Number.isFinite(biggestNumber)) console.log('This Number is finite');
+console.log('(isInteger) Is a integer number?');
+if (Number.isInteger(minSafeInteger)) console.log('This Number is integer');
+console.log('');
 
-const str = "3.2";
+const str = '3.2';
 const num = 1;
 let result;
 

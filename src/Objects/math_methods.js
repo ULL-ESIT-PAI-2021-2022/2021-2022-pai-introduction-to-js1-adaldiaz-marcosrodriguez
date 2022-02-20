@@ -11,7 +11,7 @@
   * @see {@link * https://lenguajejs.com/javascript/fundamentos/objeto-math/}
   */
 
-'use strict'
+'use strict';
 
 // Mathematical methods
 console.log('----Mathematical methods----\n');

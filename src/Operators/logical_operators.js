@@ -37,11 +37,11 @@ function xor(statement1, statement2) {
 }
 
 function nand(statement1, statement2) {
-    return (!(statement1 && statement2))
+    return (!(statement1 && statement2));
 }
 
 function nor(statement1, statement2) {
-    return (!(statement1 || statement2))
+    return (!(statement1 || statement2));
 }
 
 // Creating other logical operators

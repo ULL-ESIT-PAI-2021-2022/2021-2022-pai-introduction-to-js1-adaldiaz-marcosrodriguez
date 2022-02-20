@@ -13,7 +13,7 @@
 'use strict';
 
 // Porperties
-console.log("\n-----Properties----- \n");
+console.log('\n-----Properties----- \n');
 // The biggest positive representable number
 export const biggestNumber = Number.MAX_VALUE;
 

@@ -13,7 +13,7 @@
 'use strict';
 
 // Instance Methods
-console.log("\n-----Instance Methods----- \n");
+console.log('\n-----Instance Methods----- \n');
 // Return a string representing the number in a exponential notation
 const exponential = (num, decimals) => Number.parseFloat(num).toExponential(decimals);
 console.log(`(toExponential) Number 123456 in exponential notation: ${exponential(123456, 2)}`); // expected output: 1.23e +5

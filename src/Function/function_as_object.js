@@ -12,7 +12,7 @@
   */
 'use strict';
 
-const greet = new Function("return 'Hello';");
+const greet = new Function('return \'Hello\';');
 
 console.log(greet()); // 'Hello'
 

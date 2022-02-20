@@ -12,13 +12,13 @@
   */
 'use strict';
 
-const func = () => {
-    return "arrow Function or 'fat arrow' function.";
+const func1 = () => {
+    return 'arrow Function or \'fat arrow\' function.';
 };
 
 console.log(func());
 
 // simplified
-const func = () => "arrow function"; // 0 parameter: arrow function
-const func = (e) => e + 1; // 1 parameter: return e + 1
-const func = (a, b) => a + b; // 2 parameters: return a + b
+const func2 = () => 'arrow function'; // 0 parameter: arrow function
+const func3 = (e) => e + 1; // 1 parameter: return e + 1
+const func4 = (a, b) => a + b; // 2 parameters: return a + b

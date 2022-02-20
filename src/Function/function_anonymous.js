@@ -13,7 +13,7 @@
 'use strict';
 
 const greet = function () {
-    return "Hello";
+    return 'Hello';
 };
 
 console.log(greet); // ƒ () { return 'Hello'; }

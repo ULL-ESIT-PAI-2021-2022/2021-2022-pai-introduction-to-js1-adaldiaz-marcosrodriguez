@@ -13,7 +13,7 @@
 'use strict';
 
 //Static Methods
-console.log("\n-----Static Methods----- \n");
+console.log('\n-----Static Methods----- \n');
 // Clamps a BigInt value to a signed integer value, and returns that value.
 console.log(`(asIntN) In range: ${BigInt.asIntN(64, -(2n ** 32n))}`);
 console.log(`(asIntN) Out of range: ${BigInt.asIntN(64, -(2n ** 64n))}`);

@@ -24,4 +24,4 @@ helloWorld();
 function getDate() { // Returning a value
     return new Date().toDateString();
 }
-console.log(getDate())
+console.log(getDate());

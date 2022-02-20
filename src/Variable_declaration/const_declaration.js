@@ -14,4 +14,4 @@
 'use strict';
 
 const A = 7;
-console.log("The value of a is: " + A + ".");
+console.log('The value of a is: ' + A + '.');

@@ -19,7 +19,7 @@
  var shipping = 2.75;
  var subtotal = apples + oranges + pears;
  var total = subtotal + (subtotal * tax) + shipping;
- var message = "Your total is $";
- var deliver = message + total +".";
+ var message = 'Your total is $';
+ var deliver = message + total +'.';
 
  console.log(deliver);

@@ -15,7 +15,7 @@
 'use strict';
 
 const greeting = function greet() {
-    return "hello";
+    return 'hello';
 };
 
 console.log(typeof greeting());

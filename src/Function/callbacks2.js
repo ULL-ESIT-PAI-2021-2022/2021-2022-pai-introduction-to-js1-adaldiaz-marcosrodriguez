@@ -14,12 +14,12 @@
 
 // fB = function B (callback)
 const fB = function () {
-    console.log("function B executed.");
+    console.log('function B executed.');
   };
   
   // fError = function Error (callback)
   const fError = function () {
-    console.error("Error");
+    console.error('Error');
   };
   
   // fA = function A
