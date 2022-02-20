@@ -10,8 +10,7 @@
   *
   * @see {@link * }
   */
-
-"use strict"
+'use strict';
 
 let array = ["a", "b", "c", "a", "d", "e", "b"];
 console.log("\n----Methods for adding and deleting elements in array----");

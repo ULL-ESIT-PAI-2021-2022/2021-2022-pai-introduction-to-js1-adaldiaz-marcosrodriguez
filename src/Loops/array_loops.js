@@ -9,8 +9,7 @@
   * desc @desc Different ways to iterate an array
   *
   */
-
-"use strict";
+'use strict';
 
 const array = ['a', 'b', 'c'];
 

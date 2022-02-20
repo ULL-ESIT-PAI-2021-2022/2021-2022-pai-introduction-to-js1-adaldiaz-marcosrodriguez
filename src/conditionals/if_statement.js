@@ -10,6 +10,7 @@
   *
   * @see {@link * https://javascript.info/ifelse}
   */
+'use strict';
 
 // if statement examples
 

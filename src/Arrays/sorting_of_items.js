@@ -10,7 +10,6 @@
   *
   * @see {@link * }
   */
-
 'use strict';
 
 const array = ["Alberto", "Ana", "Mauricio", "Bernardo", "Zoe"];

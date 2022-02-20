@@ -10,6 +10,7 @@
   * 
   * @see {@link * https://lenguajejs.com/javascript/fundamentos/funciones/}
   */
+'use strict';
 
 const func = () => {
     return "arrow Function or 'fat arrow' function.";

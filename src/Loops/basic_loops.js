@@ -9,8 +9,7 @@
   * desc @desc Basic loops found in other programming languages
   *
   */
-
-"use strict";
+'use strict';
 
 let iterator = 0;
 // While loop

@@ -10,8 +10,7 @@
   *
   * @see {@link * }
   */
-
-"use strict"
+'use strict';
 
 let array = ["a", "b", "c"];
 
