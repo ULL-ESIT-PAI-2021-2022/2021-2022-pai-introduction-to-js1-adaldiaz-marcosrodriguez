@@ -38,6 +38,6 @@ function example3() {
     if(true) {
         let a = 1;
     }
-    console.log(a); // ReferenceError: i is not defined
+    console.log(a); // ReferenceError: a is not defined
 }
 example3();

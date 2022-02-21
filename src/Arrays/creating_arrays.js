@@ -14,6 +14,7 @@
 
 let array = ['a', 'b', 'c', 'd', 'e'];
 console.log('---- Methods for creating small arrays derived from other variables or objects ----');
+
 console.log('1. Slice');
 // Extracts elements from the initial position to the final position without including. DOES NOT MODIFIES THE ARRAY
 console.log(`Return: [${array.slice(2, 4)}], current array: [${array.map(item => item)}]`);

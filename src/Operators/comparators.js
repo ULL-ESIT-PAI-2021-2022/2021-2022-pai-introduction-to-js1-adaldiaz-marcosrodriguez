@@ -21,14 +21,17 @@ console.log('x = 5');
 console.log('x == 5  ' + (x == 5)); // True, same type and value
 console.log('x == 8  ' + (x == 8)); // False, same type but not same value
 console.log('x == "5"  ' + (x == '5')); // True, same value but not same type
+
 // ===; this operator cares about type and value
 console.log('x === 5  ' + (x === 5)); // True, same type and value
 console.log('x === 8  ' + (x === 8)); // False, same type but not same value
 console.log('x === "5"  ' + (x === '5')); // False, same value but not same type
+
 // !=; The opposite of '=='
 console.log('x != 5  ' + (x != 5)); // False, same type and value
 console.log('x != 8  ' + (x != 8)); // True, same type but not same value
 console.log('x != "5"  ' + (x != '5')); // False, same value but not same type
+
 // !==; The opposite of '==='
 console.log('x !== 5  ' + (x !== 5)); // False, same type and value
 console.log('x !== 8  ' + (x !== 8)); // True, same type but not same value

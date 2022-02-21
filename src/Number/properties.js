@@ -12,7 +12,7 @@
   */
 'use strict';
 
-// Porperties
+// Properties
 console.log('\n-----Properties----- \n');
 // The biggest positive representable number
 export const biggestNumber = Number.MAX_VALUE;
@@ -51,10 +51,6 @@ console.log(multiply(biggestNumber, 1));
 
 console.log(multiply(biggestNumber, 2));
 // expected output: "Process as Infinity"
-
-console.log(biggestNumber === (biggestNumber - 1));
-// expected output: true
-
 
 // Number.MAX_SAFE_INTEGER demo
 console.log('\nNumber.MAX_VALUE_INTEGER demo');

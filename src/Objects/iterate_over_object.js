@@ -37,7 +37,7 @@ for (let i = 0; i < values.length; i++) {
 
 
 console.log('\n3. for..in');
-// Loop over the positions of an array
+// Loop over the key of an array
 for (const property in cat) {
   console.log(`${property}: ${cat[property]}`);
 }

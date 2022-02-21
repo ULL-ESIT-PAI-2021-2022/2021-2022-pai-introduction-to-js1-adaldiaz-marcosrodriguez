@@ -32,3 +32,9 @@ function example3() {
     var i = 'local';
 }
 console.log(i); // Global
+
+// Problem with var
+
+console.log(`The value is: ${num}`);
+
+var num = 4;
